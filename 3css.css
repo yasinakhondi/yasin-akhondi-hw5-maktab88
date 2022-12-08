@@ -1,0 +1,28 @@
+.org {
+    border: 1px solid black;
+    /* padding: */
+    margin: 250px 400px;
+    border-radius: 10px;
+}
+
+
+.up {
+    height: 40px;
+    /* background-color: aqua; */
+    text-align: center;
+
+}
+
+
+.mid {
+    height: 120px;
+    text-align: center;
+    background-color: bisque;
+}
+
+.button {
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 10%;
+    height: 5ex;
+}

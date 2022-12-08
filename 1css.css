@@ -1,0 +1,26 @@
+.one {
+    /* border: 2px solid black; */
+    position: relative;
+    height: 400px;
+    width: 500px;
+    background-color: rgb(16, 9, 1);
+
+}
+
+.yelow {
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    background-color: yellow;
+    right: 0px;
+    bottom: 0px;
+}
+
+.red {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    position: absolute;
+    right: 0px;
+    bottom: 50px;
+}

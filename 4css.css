@@ -1,0 +1,37 @@
+* {
+    background-color: cornflowerblue;
+}
+
+.org {
+    /* height: 200px; */
+    background-color: beige;
+    /* border: 1px solid black; */
+    text-align: center;
+    margin: 200px 550px;
+    font-size: x-large;
+    /* font: status-bar; */
+}
+
+div p {
+    background-color: beige;
+
+}
+
+.box {
+    background-color: beige;
+}
+
+.input {
+    background-color: beige;
+
+    margin: 10px 0px;
+    height: 30px;
+    width: 180px;
+    text-align: center;
+}
+
+#button {
+    background-color: rgba(192, 144, 35, 0.867);
+    height: 35px;
+    width: 190px;
+}
